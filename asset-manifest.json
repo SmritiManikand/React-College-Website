@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-College-Website/static/css/main.21183b9d.css",
+    "main.js": "/React-College-Website/static/js/main.a8a129fe.js",
+    "static/js/453.d28d9ade.chunk.js": "/React-College-Website/static/js/453.d28d9ade.chunk.js",
+    "index.html": "/React-College-Website/index.html",
+    "main.21183b9d.css.map": "/React-College-Website/static/css/main.21183b9d.css.map",
+    "main.a8a129fe.js.map": "/React-College-Website/static/js/main.a8a129fe.js.map",
+    "453.d28d9ade.chunk.js.map": "/React-College-Website/static/js/453.d28d9ade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21183b9d.css",
+    "static/js/main.a8a129fe.js"
+  ]
+}
